@@ -9,6 +9,8 @@
 
 // Your code :
 
+let escapeStr = "hello single ' double \" and slash \\ yippie";
+console.log(escapeStr);
 
 //* Begin of tests
 const assert = require('assert')

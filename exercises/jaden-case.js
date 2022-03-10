@@ -8,7 +8,11 @@
  *
  * Example : "How are you ?" -> "How Are You ?"
  *
- */
+ */// Your code :
+
+ const name = "yaodadobaadolphe";
+const uppercase = name.toUpperCase();
+console.log(uppercase);
 
 
 
